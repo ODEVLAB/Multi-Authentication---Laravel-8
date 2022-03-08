@@ -17,7 +17,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## MultiAuth with Guards - 
 ## Admin and User Dashboard with Toastr Notification
 
-## Credits 
+## Resource / Credits 
 
 - [Brian2694](https://github.com/brian2694/laravel-toastr).
 - [Mbere250](https://github.com/Mbere250/Laravel-8-Multi-Guards-Authentication).
